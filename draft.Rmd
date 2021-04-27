@@ -44,7 +44,11 @@ knitr::include_graphics(here("results", "img", "first_year.png"))
 htmltools::includeHTML(path = here("results", "tab", "reg_table.html"))
 ```
 
+# More data figure
 
+```{r}
+knitr::include_graphics(here("results", "img", "more_data.png"))
+```
 
 
 
